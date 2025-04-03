@@ -1,0 +1,373 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\opah\\Desktop\\SCF\\test\\Scf.Servico.Test\\Scf.Servico.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj",
+        "projectName": "Scf.Servico.ApplicationCore",
+        "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\opah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.ApplicationCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\opah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
+                "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj"
+              },
+              "C:\\Users\\opah\\Desktop\\SCF\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj",
+        "projectName": "Scf.Servico.Domain",
+        "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj",
+        "packagesPath": "C:\\Users\\opah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\opah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\opah\\Desktop\\SCF\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\opah\\Desktop\\SCF\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj",
+        "projectName": "Scf.Servico.Infrastructure.Common",
+        "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj",
+        "packagesPath": "C:\\Users\\opah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\opah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
+                "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\opah\\Desktop\\SCF\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\opah\\Desktop\\SCF\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj",
+        "projectName": "Scf.Servico.Infrastructure.Sql",
+        "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj",
+        "packagesPath": "C:\\Users\\opah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\opah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
+                "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\opah\\Desktop\\SCF\\src\\Presentation\\Scf.Servico.Web.Api\\Scf.Servico.Web.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\opah\\Desktop\\SCF\\src\\Presentation\\Scf.Servico.Web.Api\\Scf.Servico.Web.Api.csproj",
+        "projectName": "Scf.Servico.Web.Api",
+        "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Presentation\\Scf.Servico.Web.Api\\Scf.Servico.Web.Api.csproj",
+        "packagesPath": "C:\\Users\\opah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Presentation\\Scf.Servico.Web.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\opah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj"
+              },
+              "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
+                "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj"
+              },
+              "C:\\Users\\opah\\Desktop\\SCF\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj"
+              },
+              "C:\\Users\\opah\\Desktop\\SCF\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj": {
+                "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\opah\\Desktop\\SCF\\test\\Scf.Servico.Test\\Scf.Servico.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\opah\\Desktop\\SCF\\test\\Scf.Servico.Test\\Scf.Servico.Test.csproj",
+        "projectName": "Scf.Servico.Test",
+        "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\test\\Scf.Servico.Test\\Scf.Servico.Test.csproj",
+        "packagesPath": "C:\\Users\\opah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\opah\\Desktop\\SCF\\test\\Scf.Servico.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\opah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj"
+              },
+              "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
+                "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj"
+              },
+              "C:\\Users\\opah\\Desktop\\SCF\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj": {
+                "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj"
+              },
+              "C:\\Users\\opah\\Desktop\\SCF\\src\\Presentation\\Scf.Servico.Web.Api\\Scf.Servico.Web.Api.csproj": {
+                "projectPath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Presentation\\Scf.Servico.Web.Api\\Scf.Servico.Web.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\BN.S461.MGCAC.Servico.Infrastructure.Sql\\BN.S258.MGP.Servico.Infrastructure.Sql.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\BN.S461.MGCAC.Servico.Domain\\Scf.Servico.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\BN.S461.MGCAC.Servico.Domain\\Scf.Servico.Domain.csproj",
+        "projectName": "Scf.Servico.Domain",
+        "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\BN.S461.MGCAC.Servico.Domain\\Scf.Servico.Domain.csproj",
+        "packagesPath": "C:\\Users\\D003299\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\BN.S461.MGCAC.Servico.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\D003299\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://repo.dreads.bnb/repository/nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.3.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\BN.S461.MGCAC.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\BN.S461.MGCAC.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj",
+        "projectName": "Scf.Servico.Infrastructure.Common",
+        "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\BN.S461.MGCAC.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj",
+        "packagesPath": "C:\\Users\\D003299\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\BN.S461.MGCAC.Servico.Infrastructure.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\D003299\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://repo.dreads.bnb/repository/nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\BN.S461.MGCAC.Servico.Domain\\Scf.Servico.Domain.csproj": {
+                "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\BN.S461.MGCAC.Servico.Domain\\Scf.Servico.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\BN.S461.MGCAC.Servico.Infrastructure.Sql\\BN.S258.MGP.Servico.Infrastructure.Sql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\BN.S461.MGCAC.Servico.Infrastructure.Sql\\BN.S258.MGP.Servico.Infrastructure.Sql.csproj",
+        "projectName": "BN.S258.MGP.Servico.Infrastructure.Sql",
+        "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\BN.S461.MGCAC.Servico.Infrastructure.Sql\\BN.S258.MGP.Servico.Infrastructure.Sql.csproj",
+        "packagesPath": "C:\\Users\\D003299\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\BN.S461.MGCAC.Servico.Infrastructure.Sql\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\D003299\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://repo.dreads.bnb/repository/nuget/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\BN.S461.MGCAC.Servico.Domain\\Scf.Servico.Domain.csproj": {
+                "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\BN.S461.MGCAC.Servico.Domain\\Scf.Servico.Domain.csproj"
+              },
+              "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\BN.S461.MGCAC.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\BN.S461.MGCAC.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

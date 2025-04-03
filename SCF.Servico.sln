@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C5B90E68-1C97-4C93-99A2-22F40FCE11F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{D7C572E7-3D0B-42D0-BC14-315EA8A4DE61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{A7FA802D-1D9C-43F5-A3D6-7F57B9AA27EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{75353470-04BC-471B-9EDD-B55F8AE6BA16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{22EE3BB5-669D-4F96-91BA-5A4ADF3D4741}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0CCB9B61-BDD0-43FF-9429-2EB0BB6D92AD}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scf.Servico.ApplicationCore", "src\Core\Scf.Servico.ApplicationCore\Scf.Servico.ApplicationCore.csproj", "{D12BE912-A0A0-4B2E-8EE6-878289DED987}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D5345715-6747-4CAC-B127-E697118B561B} = {D5345715-6747-4CAC-B127-E697118B561B}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scf.Servico.Domain", "src\Core\Scf.Servico.Domain\Scf.Servico.Domain.csproj", "{A865B5BE-0BD1-420B-8B7C-DEFDFFE29954}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scf.Servico.Infrastructure.Common", "src\Infrastructure\Scf.Servico.Infrastructure.Common\Scf.Servico.Infrastructure.Common.csproj", "{947969CF-9336-482E-BB07-B68456B6156E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scf.Servico.Web.Api", "src\Presentation\Scf.Servico.Web.Api\Scf.Servico.Web.Api.csproj", "{775296BD-F683-4EF1-AFF5-72CF30241216}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scf.Servico.Infrastructure.Sql", "src\Infrastructure\Scf.Servico.Infrastructure.Sql\Scf.Servico.Infrastructure.Sql.csproj", "{D5345715-6747-4CAC-B127-E697118B561B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scf.Servico.Test", "test\Scf.Servico.Test\Scf.Servico.Test.csproj", "{505DD2A8-2ACE-484C-BC44-FAAF7CA76DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D12BE912-A0A0-4B2E-8EE6-878289DED987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12BE912-A0A0-4B2E-8EE6-878289DED987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12BE912-A0A0-4B2E-8EE6-878289DED987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12BE912-A0A0-4B2E-8EE6-878289DED987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A865B5BE-0BD1-420B-8B7C-DEFDFFE29954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A865B5BE-0BD1-420B-8B7C-DEFDFFE29954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A865B5BE-0BD1-420B-8B7C-DEFDFFE29954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A865B5BE-0BD1-420B-8B7C-DEFDFFE29954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{947969CF-9336-482E-BB07-B68456B6156E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947969CF-9336-482E-BB07-B68456B6156E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947969CF-9336-482E-BB07-B68456B6156E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947969CF-9336-482E-BB07-B68456B6156E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775296BD-F683-4EF1-AFF5-72CF30241216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775296BD-F683-4EF1-AFF5-72CF30241216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775296BD-F683-4EF1-AFF5-72CF30241216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775296BD-F683-4EF1-AFF5-72CF30241216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5345715-6747-4CAC-B127-E697118B561B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5345715-6747-4CAC-B127-E697118B561B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5345715-6747-4CAC-B127-E697118B561B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5345715-6747-4CAC-B127-E697118B561B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{505DD2A8-2ACE-484C-BC44-FAAF7CA76DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505DD2A8-2ACE-484C-BC44-FAAF7CA76DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505DD2A8-2ACE-484C-BC44-FAAF7CA76DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505DD2A8-2ACE-484C-BC44-FAAF7CA76DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A7FA802D-1D9C-43F5-A3D6-7F57B9AA27EC} = {C5B90E68-1C97-4C93-99A2-22F40FCE11F1}
+		{75353470-04BC-471B-9EDD-B55F8AE6BA16} = {C5B90E68-1C97-4C93-99A2-22F40FCE11F1}
+		{22EE3BB5-669D-4F96-91BA-5A4ADF3D4741} = {C5B90E68-1C97-4C93-99A2-22F40FCE11F1}
+		{D12BE912-A0A0-4B2E-8EE6-878289DED987} = {A7FA802D-1D9C-43F5-A3D6-7F57B9AA27EC}
+		{A865B5BE-0BD1-420B-8B7C-DEFDFFE29954} = {A7FA802D-1D9C-43F5-A3D6-7F57B9AA27EC}
+		{947969CF-9336-482E-BB07-B68456B6156E} = {75353470-04BC-471B-9EDD-B55F8AE6BA16}
+		{775296BD-F683-4EF1-AFF5-72CF30241216} = {22EE3BB5-669D-4F96-91BA-5A4ADF3D4741}
+		{D5345715-6747-4CAC-B127-E697118B561B} = {75353470-04BC-471B-9EDD-B55F8AE6BA16}
+		{505DD2A8-2ACE-484C-BC44-FAAF7CA76DED} = {D7C572E7-3D0B-42D0-BC14-315EA8A4DE61}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77DFDD2B-B09B-4F4C-A245-3ECDBD62C421}
+	EndGlobalSection
+EndGlobal

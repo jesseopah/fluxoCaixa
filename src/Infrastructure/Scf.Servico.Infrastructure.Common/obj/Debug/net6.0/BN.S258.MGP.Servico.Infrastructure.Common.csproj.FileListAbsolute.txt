@@ -1,0 +1,15 @@
+C:\Users\D003299\workspace\S258_MGP_SERVICO\src\Infrastructure\BN.S461.MGCAC.Servico.Infrastructure.Common\bin\Debug\net6.0\BN.S258.MGP.Servico.Infrastructure.Common.deps.json
+C:\Users\D003299\workspace\S258_MGP_SERVICO\src\Infrastructure\BN.S461.MGCAC.Servico.Infrastructure.Common\bin\Debug\net6.0\BN.S258.MGP.Servico.Infrastructure.Common.dll
+C:\Users\D003299\workspace\S258_MGP_SERVICO\src\Infrastructure\BN.S461.MGCAC.Servico.Infrastructure.Common\bin\Debug\net6.0\BN.S258.MGP.Servico.Infrastructure.Common.pdb
+C:\Users\D003299\workspace\S258_MGP_SERVICO\src\Infrastructure\BN.S461.MGCAC.Servico.Infrastructure.Common\bin\Debug\net6.0\BN.S258.MGP.Servico.Domain.dll
+C:\Users\D003299\workspace\S258_MGP_SERVICO\src\Infrastructure\BN.S461.MGCAC.Servico.Infrastructure.Common\bin\Debug\net6.0\BN.S258.MGP.Servico.Domain.pdb
+C:\Users\D003299\workspace\S258_MGP_SERVICO\src\Infrastructure\BN.S461.MGCAC.Servico.Infrastructure.Common\obj\Debug\net6.0\BN.S258.MGP.Servico.Infrastructure.Common.csproj.AssemblyReference.cache
+C:\Users\D003299\workspace\S258_MGP_SERVICO\src\Infrastructure\BN.S461.MGCAC.Servico.Infrastructure.Common\obj\Debug\net6.0\BN.S258.MGP.Servico.Infrastructure.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D003299\workspace\S258_MGP_SERVICO\src\Infrastructure\BN.S461.MGCAC.Servico.Infrastructure.Common\obj\Debug\net6.0\BN.S258.MGP.Servico.Infrastructure.Common.AssemblyInfoInputs.cache
+C:\Users\D003299\workspace\S258_MGP_SERVICO\src\Infrastructure\BN.S461.MGCAC.Servico.Infrastructure.Common\obj\Debug\net6.0\BN.S258.MGP.Servico.Infrastructure.Common.AssemblyInfo.cs
+C:\Users\D003299\workspace\S258_MGP_SERVICO\src\Infrastructure\BN.S461.MGCAC.Servico.Infrastructure.Common\obj\Debug\net6.0\BN.S258.MGP.Servico.Infrastructure.Common.csproj.CoreCompileInputs.cache
+C:\Users\D003299\workspace\S258_MGP_SERVICO\src\Infrastructure\BN.S461.MGCAC.Servico.Infrastructure.Common\obj\Debug\net6.0\BN.S258..73EB55F4.Up2Date
+C:\Users\D003299\workspace\S258_MGP_SERVICO\src\Infrastructure\BN.S461.MGCAC.Servico.Infrastructure.Common\obj\Debug\net6.0\BN.S258.MGP.Servico.Infrastructure.Common.dll
+C:\Users\D003299\workspace\S258_MGP_SERVICO\src\Infrastructure\BN.S461.MGCAC.Servico.Infrastructure.Common\obj\Debug\net6.0\refint\BN.S258.MGP.Servico.Infrastructure.Common.dll
+C:\Users\D003299\workspace\S258_MGP_SERVICO\src\Infrastructure\BN.S461.MGCAC.Servico.Infrastructure.Common\obj\Debug\net6.0\BN.S258.MGP.Servico.Infrastructure.Common.pdb
+C:\Users\D003299\workspace\S258_MGP_SERVICO\src\Infrastructure\BN.S461.MGCAC.Servico.Infrastructure.Common\obj\Debug\net6.0\ref\BN.S258.MGP.Servico.Infrastructure.Common.dll

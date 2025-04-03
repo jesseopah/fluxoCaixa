@@ -1,0 +1,12 @@
+C:\Users\D003299\workspace\S461_ATD_983351_MGCAC_Servico_DEV2\S461_MGCAC_Servico\src\Core\BN.S461.MGCAC.Servico.Domain\bin\Debug\net6.0\BN.S461.MGCAC.Servico.Domain.deps.json
+C:\Users\D003299\workspace\S461_ATD_983351_MGCAC_Servico_DEV2\S461_MGCAC_Servico\src\Core\BN.S461.MGCAC.Servico.Domain\bin\Debug\net6.0\BN.S461.MGCAC.Servico.Domain.dll
+C:\Users\D003299\workspace\S461_ATD_983351_MGCAC_Servico_DEV2\S461_MGCAC_Servico\src\Core\BN.S461.MGCAC.Servico.Domain\bin\Debug\net6.0\BN.S461.MGCAC.Servico.Domain.pdb
+C:\Users\D003299\workspace\S461_ATD_983351_MGCAC_Servico_DEV2\S461_MGCAC_Servico\src\Core\BN.S461.MGCAC.Servico.Domain\obj\Debug\net6.0\BN.S461.MGCAC.Servico.Domain.csproj.AssemblyReference.cache
+C:\Users\D003299\workspace\S461_ATD_983351_MGCAC_Servico_DEV2\S461_MGCAC_Servico\src\Core\BN.S461.MGCAC.Servico.Domain\obj\Debug\net6.0\BN.S461.MGCAC.Servico.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D003299\workspace\S461_ATD_983351_MGCAC_Servico_DEV2\S461_MGCAC_Servico\src\Core\BN.S461.MGCAC.Servico.Domain\obj\Debug\net6.0\BN.S461.MGCAC.Servico.Domain.AssemblyInfoInputs.cache
+C:\Users\D003299\workspace\S461_ATD_983351_MGCAC_Servico_DEV2\S461_MGCAC_Servico\src\Core\BN.S461.MGCAC.Servico.Domain\obj\Debug\net6.0\BN.S461.MGCAC.Servico.Domain.AssemblyInfo.cs
+C:\Users\D003299\workspace\S461_ATD_983351_MGCAC_Servico_DEV2\S461_MGCAC_Servico\src\Core\BN.S461.MGCAC.Servico.Domain\obj\Debug\net6.0\BN.S461.MGCAC.Servico.Domain.csproj.CoreCompileInputs.cache
+C:\Users\D003299\workspace\S461_ATD_983351_MGCAC_Servico_DEV2\S461_MGCAC_Servico\src\Core\BN.S461.MGCAC.Servico.Domain\obj\Debug\net6.0\BN.S461.MGCAC.Servico.Domain.dll
+C:\Users\D003299\workspace\S461_ATD_983351_MGCAC_Servico_DEV2\S461_MGCAC_Servico\src\Core\BN.S461.MGCAC.Servico.Domain\obj\Debug\net6.0\refint\BN.S461.MGCAC.Servico.Domain.dll
+C:\Users\D003299\workspace\S461_ATD_983351_MGCAC_Servico_DEV2\S461_MGCAC_Servico\src\Core\BN.S461.MGCAC.Servico.Domain\obj\Debug\net6.0\BN.S461.MGCAC.Servico.Domain.pdb
+C:\Users\D003299\workspace\S461_ATD_983351_MGCAC_Servico_DEV2\S461_MGCAC_Servico\src\Core\BN.S461.MGCAC.Servico.Domain\obj\Debug\net6.0\ref\BN.S461.MGCAC.Servico.Domain.dll

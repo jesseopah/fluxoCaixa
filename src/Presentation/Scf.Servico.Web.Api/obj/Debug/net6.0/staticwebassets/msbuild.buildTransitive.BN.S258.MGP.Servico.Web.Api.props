@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BN.S258.MGP.Servico.Web.Api.props" />
+</Project>

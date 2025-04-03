@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gCpEjGMl7rIh9aL0e0UAnGB+iu/5XlIB7ExnI9Wxl5Q=",
+  "Source": "Scf.Servico.Web.Api",
+  "BasePath": "_content/Scf.Servico.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

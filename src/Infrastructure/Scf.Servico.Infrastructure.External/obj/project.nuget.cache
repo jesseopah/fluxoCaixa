@@ -1,0 +1,130 @@
+{
+  "version": 2,
+  "dgSpecHash": "BkVhVe2Q3kM=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.External\\Scf.Servico.Infrastructure.External.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\D003299\\.nuget\\packages\\fluentassertions\\8.2.0\\fluentassertions.8.2.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.3\\microsoft.extensions.caching.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.3\\microsoft.extensions.caching.memory.9.0.3.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\6.0.0\\microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.configuration.json\\6.0.0\\microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.3\\microsoft.extensions.logging.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.objectpool\\6.0.16\\microsoft.extensions.objectpool.6.0.16.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.options\\9.0.3\\microsoft.extensions.options.9.0.3.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\microsoft.extensions.options.configurationextensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.3\\microsoft.extensions.primitives.9.0.3.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.identitymodel.protocols.wstrust\\6.8.0\\microsoft.identitymodel.protocols.wstrust.6.8.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.identitymodel.tokens.saml\\6.8.0\\microsoft.identitymodel.tokens.saml.6.8.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\microsoft.identitymodel.xml\\6.8.0\\microsoft.identitymodel.xml.6.8.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\nswag.apidescription.client\\13.0.5\\nswag.apidescription.client.13.0.5.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\sixlabors.imagesharp\\3.1.7\\sixlabors.imagesharp.3.1.7.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.3\\system.diagnostics.diagnosticsource.9.0.3.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.formats.asn1\\6.0.0\\system.formats.asn1.6.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.linq.dynamic.core\\1.6.0.2\\system.linq.dynamic.core.1.6.0.2.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.reflection.dispatchproxy\\4.7.1\\system.reflection.dispatchproxy.4.7.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.security.cryptography.pkcs\\6.0.1\\system.security.cryptography.pkcs.6.0.1.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.security.cryptography.xml\\6.0.1\\system.security.cryptography.xml.6.0.1.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.servicemodel.duplex\\6.0.0\\system.servicemodel.duplex.6.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.servicemodel.federation\\6.0.0\\system.servicemodel.federation.6.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.servicemodel.http\\6.0.0\\system.servicemodel.http.6.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.servicemodel.netframingbase\\6.0.0\\system.servicemodel.netframingbase.6.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.servicemodel.nettcp\\6.0.0\\system.servicemodel.nettcp.6.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.servicemodel.primitives\\6.0.0\\system.servicemodel.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.servicemodel.security\\6.0.0\\system.servicemodel.security.6.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: System.ServiceModel.Http from 8.1.2 to 6.0.0. Reference the package directly from the project to select a different version. \r\n Scf.Servico.Infrastructure.External -> Scf.Servico.ApplicationCore -> System.ServiceModel.Http (>= 8.1.2) \r\n Scf.Servico.Infrastructure.External -> System.ServiceModel.Http (>= 6.0.0)",
+      "libraryId": "System.ServiceModel.Http",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: System.ServiceModel.NetTcp from 8.1.2 to 6.0.0. Reference the package directly from the project to select a different version. \r\n Scf.Servico.Infrastructure.External -> Scf.Servico.ApplicationCore -> System.ServiceModel.NetTcp (>= 8.1.2) \r\n Scf.Servico.Infrastructure.External -> System.ServiceModel.NetTcp (>= 6.0.0)",
+      "libraryId": "System.ServiceModel.NetTcp",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: System.ServiceModel.Federation from 8.1.2 to 6.0.0. Reference the package directly from the project to select a different version. \r\n Scf.Servico.Infrastructure.External -> Scf.Servico.ApplicationCore -> System.ServiceModel.Federation (>= 8.1.2) \r\n Scf.Servico.Infrastructure.External -> System.ServiceModel.Federation (>= 6.0.0)",
+      "libraryId": "System.ServiceModel.Federation",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: Microsoft.Extensions.Configuration.Abstractions from 9.0.3 to 6.0.0. Reference the package directly from the project to select a different version. \r\n Scf.Servico.Infrastructure.External -> Scf.Servico.ApplicationCore -> Microsoft.Extensions.Configuration.Abstractions (>= 9.0.3) \r\n Scf.Servico.Infrastructure.External -> Microsoft.Extensions.Configuration.Abstractions (>= 6.0.0)",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Warning As Error: Detected package downgrade: Microsoft.Extensions.Options.ConfigurationExtensions from 9.0.3 to 6.0.0. Reference the package directly from the project to select a different version. \r\n Scf.Servico.Infrastructure.External -> Scf.Servico.ApplicationCore -> Scf.Servico.Infrastructure.Common -> Microsoft.Extensions.Options.ConfigurationExtensions (>= 9.0.3) \r\n Scf.Servico.Infrastructure.External -> Microsoft.Extensions.Options.ConfigurationExtensions (>= 6.0.0)",
+      "libraryId": "Microsoft.Extensions.Options.ConfigurationExtensions",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
