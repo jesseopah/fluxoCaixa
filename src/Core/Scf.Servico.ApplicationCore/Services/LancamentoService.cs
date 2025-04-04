@@ -1,9 +1,8 @@
-﻿using Scf.Servico.Domain.DTO.Request;
+﻿using Mapster;
 using Scf.Servico.Domain.DTO.Response;
 using Scf.Servico.Domain.Entities;
 using Scf.Servico.Domain.Interfaces.Repositories;
 using Scf.Servico.Domain.Interfaces.Services;
-using Mapster;
 using System.Diagnostics.CodeAnalysis;
 
 namespace Scf.Servico.ApplicationCore.Services
@@ -60,7 +59,7 @@ namespace Scf.Servico.ApplicationCore.Services
         {
 
             var lista = await LancamentoRepository.List();
-            var lancamento = lista.FirstOrDefault(x => x.CodigoLancamento == id);
+            var lancamento = lista.FirstOrDefault(x => x.Codigo == id);
             return lancamento;
         }
 
@@ -76,7 +75,7 @@ namespace Scf.Servico.ApplicationCore.Services
 
             if (existente != null)
             {
-                if (existente.CodigoLancamento == lancamento.CodigoLancamento)
+                if (existente.Codigo == lancamento.Codigo)
                 {
                     existente.DataDoLancamento = lancamento.DataDoLancamento;
                     existente.DescricaoLancamento = lancamento.DescricaoLancamento;

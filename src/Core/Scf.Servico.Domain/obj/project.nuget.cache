@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "f3BBFSR9LI+sEwnfQd1GfwMpTJEl3gFIx9sf9RV3acqo2Gd9Y074grgQNobsqY0jat86E0W9Kq4t9YO9F5BjTg==",
+  "dgSpecHash": "3nznEr5h8X0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\opah\\Desktop\\SCF\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\D003299\\.nuget\\packages\\fluentassertions\\8.2.0\\fluentassertions.8.2.0.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\sixlabors.imagesharp\\3.1.7\\sixlabors.imagesharp.3.1.7.nupkg.sha512",
+    "C:\\Users\\D003299\\.nuget\\packages\\system.linq.dynamic.core\\1.6.0.2\\system.linq.dynamic.core.1.6.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

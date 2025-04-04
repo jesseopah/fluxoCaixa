@@ -12,7 +12,8 @@ namespace Scf.Servico.ApplicationCore
         public static IServiceCollection RegisterCoreDependencies(this IServiceCollection services)
         {
             services.AddTransient<ILancamentoService, LancamentoService>();
-               
+            services.AddTransient<IConsolidadoService, ConsolidadoService>();
+
             services.RegisterMaps();
             return services;
         }

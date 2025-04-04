@@ -57,7 +57,7 @@ namespace Scf.Servico.Infrastructure.Sql
              
         public async Task<TEntity> findById(int id)
         {
-            return await appDbContext.Set<TEntity>().FirstOrDefaultAsync(x => x.CodigoLancamento == id);
+            return await appDbContext.Set<TEntity>().FirstOrDefaultAsync(x => x.Codigo == id);
         }
               
 

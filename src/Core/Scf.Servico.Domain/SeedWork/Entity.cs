@@ -2,6 +2,6 @@
 {
     public abstract class Entity
     {
-        public int CodigoLancamento { get; set; }
+        public int Codigo { get; set; }
     }
 }

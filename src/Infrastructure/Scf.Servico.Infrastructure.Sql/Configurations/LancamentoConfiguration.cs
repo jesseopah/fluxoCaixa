@@ -12,10 +12,10 @@ namespace Scf.Servico.Sql.Configurations
         {
             builder.ToTable("TLancamentos");
 
-            builder.HasKey(x => x.CodigoLancamento);
+            builder.HasKey(x => x.Codigo);
 
-            builder.Property(x => x.CodigoLancamento)
-               .HasColumnName("CodigoLancamento")
+            builder.Property(x => x.Codigo)
+               .HasColumnName("Codigo")
                .HasColumnType("int")
                .HasMaxLength(10);
 

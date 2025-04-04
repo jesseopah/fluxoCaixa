@@ -15,7 +15,7 @@ namespace Scf.Servico.Test.Web.Api.Entities
         {
             var retorno = new Tlancamentos()
             {
-                CodigoLancamento = 1,
+                Codigo = 1,
                 DataDoLancamento = DateTime.Now,
                 TipoLancamento = 1              
             };

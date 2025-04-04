@@ -19,7 +19,8 @@ namespace Scf.Servico.Infrastructure.Sql
             services.AddTransient<DbContext, AppDbContext>();
 
             services.AddTransient<ILancamentoRepository, LancamentoRepository>();
-          
+            services.AddTransient<IConsolidadoRepository, ConsolidadoRepository>();
+
             return services;
         }
     }

@@ -10,7 +10,7 @@ namespace Scf.Servico.Domain.Entities
     public class Tlancamentos : Entity
     {
         [Key]
-        public int CodigoLancamento { get; set; }
+        public int Codigo { get; set; }
 
         /// <summary>
         /// TipoDeLancamento pode ser 1 = Crédito e 2 = Debito 
