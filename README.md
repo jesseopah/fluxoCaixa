@@ -1,5 +1,5 @@
 # fluxoCaixa
-Teste para o banco carrefour
+Teste para o banco Carrefour - Jesse Leandro Leoni
 
 Com instruções claras de como a aplicação funciona, e como rodar localmente:
 1.	Instalação do SQL Server Express Edition;
