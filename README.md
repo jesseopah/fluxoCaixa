@@ -3,7 +3,7 @@ Teste para o banco carrefour
 
 Com instruções claras de como a aplicação funciona, e como rodar localmente:
 1.	Instalação do SQL Server Express Edition;
-2.	Criar o Banco de Dados DBFLUXO1;
+2.	Criar o Banco de Dados DBFLUXO1. Execute o arquivo Script1.sql que está na raiz do projeto.
 3.	Executar o Script para a criação dos objetos;
 4.	Instalar o Visual Studio 2022;
 5.	Abrir o projeto da API;
