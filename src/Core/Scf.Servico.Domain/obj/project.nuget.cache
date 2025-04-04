@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3nznEr5h8X0=",
+  "dgSpecHash": "db5v+S/7dh4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj",
+  "projectFilePath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\D003299\\.nuget\\packages\\fluentassertions\\8.2.0\\fluentassertions.8.2.0.nupkg.sha512",
     "C:\\Users\\D003299\\.nuget\\packages\\sixlabors.imagesharp\\3.1.7\\sixlabors.imagesharp.3.1.7.nupkg.sha512",

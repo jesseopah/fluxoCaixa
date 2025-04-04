@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Scf.Servico.ApplicationCore
-build_property.ProjectDir = C:\Users\D003299\workspace\S258_MGP_SERVICO\src\Core\Scf.Servico.ApplicationCore\
+build_property.ProjectDir = C:\Users\D003299\workspace\SFC\src\Core\Scf.Servico.ApplicationCore\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

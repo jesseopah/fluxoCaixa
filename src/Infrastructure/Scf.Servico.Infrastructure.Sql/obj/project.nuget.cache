@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "goj87Fqy2hA=",
+  "dgSpecHash": "dVLBGRSjuZo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj",
+  "projectFilePath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\D003299\\.nuget\\packages\\fluentassertions\\8.2.0\\fluentassertions.8.2.0.nupkg.sha512",
     "C:\\Users\\D003299\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -40,7 +40,6 @@
     "C:\\Users\\D003299\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
     "C:\\Users\\D003299\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
     "C:\\Users\\D003299\\.nuget\\packages\\system.linq.dynamic.core\\1.6.0.2\\system.linq.dynamic.core.1.6.0.2.nupkg.sha512",
-    "C:\\Users\\D003299\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
     "C:\\Users\\D003299\\.nuget\\packages\\system.runtime.caching\\4.7.0\\system.runtime.caching.4.7.0.nupkg.sha512",
     "C:\\Users\\D003299\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\D003299\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",

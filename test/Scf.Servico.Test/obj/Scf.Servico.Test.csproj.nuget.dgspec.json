@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\test\\Scf.Servico.Test\\Scf.Servico.Test.csproj": {}
+    "C:\\Users\\D003299\\workspace\\SFC\\test\\Scf.Servico.Test\\Scf.Servico.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj": {
+    "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj",
         "projectName": "Scf.Servico.ApplicationCore",
-        "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\D003299\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -25,21 +25,21 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://repo.dreads.bnb/repository/nuget/": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
-                "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj"
+              "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
+                "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj"
               },
-              "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj": {
-                "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj"
+              "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj"
               }
             }
           }
@@ -56,8 +56,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "FluentAssertions": {
               "target": "Package",
@@ -108,18 +108,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
+    "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj",
         "projectName": "Scf.Servico.Domain",
-        "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj",
+        "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj",
         "packagesPath": "C:\\Users\\D003299\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.Domain\\obj\\",
+        "outputPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -133,15 +133,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://repo.dreads.bnb/repository/nuget/": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -157,8 +157,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "FluentAssertions": {
               "target": "Package",
@@ -189,18 +189,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj": {
+    "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj",
+        "projectUniqueName": "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj",
         "projectName": "Scf.Servico.Infrastructure.Common",
-        "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj",
+        "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj",
         "packagesPath": "C:\\Users\\D003299\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\obj\\",
+        "outputPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -214,18 +214,18 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://repo.dreads.bnb/repository/nuget/": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
-                "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj"
+              "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
+                "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj"
               }
             }
           }
@@ -242,8 +242,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "FluentAssertions": {
               "target": "Package",
@@ -286,18 +286,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj": {
+    "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj",
+        "projectUniqueName": "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj",
         "projectName": "Scf.Servico.Infrastructure.Sql",
-        "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj",
+        "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj",
         "packagesPath": "C:\\Users\\D003299\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\obj\\",
+        "outputPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -311,18 +311,18 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://repo.dreads.bnb/repository/nuget/": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
-                "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj"
+              "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
+                "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj"
               }
             }
           }
@@ -339,8 +339,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -381,18 +381,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Presentation\\Scf.Servico.Web.Api\\Scf.Servico.Web.Api.csproj": {
+    "C:\\Users\\D003299\\workspace\\SFC\\src\\Presentation\\Scf.Servico.Web.Api\\Scf.Servico.Web.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Presentation\\Scf.Servico.Web.Api\\Scf.Servico.Web.Api.csproj",
+        "projectUniqueName": "C:\\Users\\D003299\\workspace\\SFC\\src\\Presentation\\Scf.Servico.Web.Api\\Scf.Servico.Web.Api.csproj",
         "projectName": "Scf.Servico.Web.Api",
-        "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Presentation\\Scf.Servico.Web.Api\\Scf.Servico.Web.Api.csproj",
+        "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Presentation\\Scf.Servico.Web.Api\\Scf.Servico.Web.Api.csproj",
         "packagesPath": "C:\\Users\\D003299\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Presentation\\Scf.Servico.Web.Api\\obj\\",
+        "outputPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Presentation\\Scf.Servico.Web.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -406,27 +406,27 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://repo.dreads.bnb/repository/nuget/": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj"
+              "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj"
               },
-              "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
-                "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj"
+              "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
+                "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj"
               },
-              "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj": {
-                "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj"
+              "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Common\\Scf.Servico.Infrastructure.Common.csproj"
               },
-              "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj": {
-                "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj"
+              "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj": {
+                "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj"
               }
             }
           }
@@ -443,8 +443,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "FluentAssertions": {
               "target": "Package",
@@ -478,18 +478,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\test\\Scf.Servico.Test\\Scf.Servico.Test.csproj": {
+    "C:\\Users\\D003299\\workspace\\SFC\\test\\Scf.Servico.Test\\Scf.Servico.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\test\\Scf.Servico.Test\\Scf.Servico.Test.csproj",
+        "projectUniqueName": "C:\\Users\\D003299\\workspace\\SFC\\test\\Scf.Servico.Test\\Scf.Servico.Test.csproj",
         "projectName": "Scf.Servico.Test",
-        "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\test\\Scf.Servico.Test\\Scf.Servico.Test.csproj",
+        "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\test\\Scf.Servico.Test\\Scf.Servico.Test.csproj",
         "packagesPath": "C:\\Users\\D003299\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\test\\Scf.Servico.Test\\obj\\",
+        "outputPath": "C:\\Users\\D003299\\workspace\\SFC\\test\\Scf.Servico.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -503,27 +503,27 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://repo.dreads.bnb/repository/nuget/": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj"
+              "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.ApplicationCore\\Scf.Servico.ApplicationCore.csproj"
               },
-              "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
-                "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj"
+              "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj": {
+                "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Core\\Scf.Servico.Domain\\Scf.Servico.Domain.csproj"
               },
-              "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj": {
-                "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj"
+              "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj": {
+                "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Infrastructure\\Scf.Servico.Infrastructure.Sql\\Scf.Servico.Infrastructure.Sql.csproj"
               },
-              "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Presentation\\Scf.Servico.Web.Api\\Scf.Servico.Web.Api.csproj": {
-                "projectPath": "C:\\Users\\D003299\\workspace\\S258_MGP_SERVICO\\src\\Presentation\\Scf.Servico.Web.Api\\Scf.Servico.Web.Api.csproj"
+              "C:\\Users\\D003299\\workspace\\SFC\\src\\Presentation\\Scf.Servico.Web.Api\\Scf.Servico.Web.Api.csproj": {
+                "projectPath": "C:\\Users\\D003299\\workspace\\SFC\\src\\Presentation\\Scf.Servico.Web.Api\\Scf.Servico.Web.Api.csproj"
               }
             }
           }
@@ -540,8 +540,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "FluentAssertions": {
               "target": "Package",
@@ -596,7 +596,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

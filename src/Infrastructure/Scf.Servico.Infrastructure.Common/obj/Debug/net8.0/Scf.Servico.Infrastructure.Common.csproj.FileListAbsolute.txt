@@ -1,0 +1,15 @@
+C:\Users\D003299\workspace\SFC\src\Infrastructure\Scf.Servico.Infrastructure.Common\bin\Debug\net8.0\Scf.Servico.Infrastructure.Common.deps.json
+C:\Users\D003299\workspace\SFC\src\Infrastructure\Scf.Servico.Infrastructure.Common\bin\Debug\net8.0\Scf.Servico.Infrastructure.Common.dll
+C:\Users\D003299\workspace\SFC\src\Infrastructure\Scf.Servico.Infrastructure.Common\bin\Debug\net8.0\Scf.Servico.Infrastructure.Common.pdb
+C:\Users\D003299\workspace\SFC\src\Infrastructure\Scf.Servico.Infrastructure.Common\bin\Debug\net8.0\Scf.Servico.Domain.dll
+C:\Users\D003299\workspace\SFC\src\Infrastructure\Scf.Servico.Infrastructure.Common\bin\Debug\net8.0\Scf.Servico.Domain.pdb
+C:\Users\D003299\workspace\SFC\src\Infrastructure\Scf.Servico.Infrastructure.Common\obj\Debug\net8.0\Scf.Servico.Infrastructure.Common.csproj.AssemblyReference.cache
+C:\Users\D003299\workspace\SFC\src\Infrastructure\Scf.Servico.Infrastructure.Common\obj\Debug\net8.0\Scf.Servico.Infrastructure.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D003299\workspace\SFC\src\Infrastructure\Scf.Servico.Infrastructure.Common\obj\Debug\net8.0\Scf.Servico.Infrastructure.Common.AssemblyInfoInputs.cache
+C:\Users\D003299\workspace\SFC\src\Infrastructure\Scf.Servico.Infrastructure.Common\obj\Debug\net8.0\Scf.Servico.Infrastructure.Common.AssemblyInfo.cs
+C:\Users\D003299\workspace\SFC\src\Infrastructure\Scf.Servico.Infrastructure.Common\obj\Debug\net8.0\Scf.Servico.Infrastructure.Common.csproj.CoreCompileInputs.cache
+C:\Users\D003299\workspace\SFC\src\Infrastructure\Scf.Servico.Infrastructure.Common\obj\Debug\net8.0\Scf.Serv.0F664664.Up2Date
+C:\Users\D003299\workspace\SFC\src\Infrastructure\Scf.Servico.Infrastructure.Common\obj\Debug\net8.0\Scf.Servico.Infrastructure.Common.dll
+C:\Users\D003299\workspace\SFC\src\Infrastructure\Scf.Servico.Infrastructure.Common\obj\Debug\net8.0\refint\Scf.Servico.Infrastructure.Common.dll
+C:\Users\D003299\workspace\SFC\src\Infrastructure\Scf.Servico.Infrastructure.Common\obj\Debug\net8.0\Scf.Servico.Infrastructure.Common.pdb
+C:\Users\D003299\workspace\SFC\src\Infrastructure\Scf.Servico.Infrastructure.Common\obj\Debug\net8.0\ref\Scf.Servico.Infrastructure.Common.dll
